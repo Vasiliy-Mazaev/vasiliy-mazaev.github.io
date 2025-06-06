@@ -26,3 +26,12 @@ UPDATE = не работает!
 изменил адрес на:
 `[страница один](./pageone.html)`
 [страница один](./pageone.html)
+
+UPDATE = вот такой вид ссылок работает!
+
+## 3
+а если сделать абсолютную ссылку?
+
+`[страница один](https://vasiliy-mazaev.github.io/pageone.html)`
+
+[страница один](https://vasiliy-mazaev.github.io/pageone.html)
