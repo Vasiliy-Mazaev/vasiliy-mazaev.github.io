@@ -9,9 +9,19 @@
 
 # новая страница
 
+## 1
+
 добавил страницу pageone.html и она появилась по адресу
 `https://vasiliy-mazaev.github.io/pageone.html`
 
 теперь я добавлю ссылку на нее в .md ввиде
+
 `[страница один](/docs/pageone.html)`
+
 [страница один](/docs/pageone.html)
+UPDATE = не работает!
+
+## 2
+
+изменил адрес на:
+`[страница один](./pageone.html)`
