@@ -6,3 +6,12 @@
   - изменена папка с сайтом с root на docs
 
 ожидаем результат, прочитает ли файл в markdown разметке?
+
+# новая страница
+
+добавил страницу pageone.html и она появилась по адресу
+`https://vasiliy-mazaev.github.io/pageone.html`
+
+теперь я добавлю ссылку на нее в .md ввиде
+`[страница один](/docs/pageone.html)`
+[страница один](/docs/pageone.html)
