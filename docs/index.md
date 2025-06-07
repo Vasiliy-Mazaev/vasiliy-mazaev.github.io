@@ -35,3 +35,11 @@ UPDATE = вот такой вид ссылок работает!
 `[страница один](https://vasiliy-mazaev.github.io/pageone.html)`
 
 [страница один](https://vasiliy-mazaev.github.io/pageone.html)
+
+## 4
+
+наверно лучше делать относительные ссылки,меньше шанс ошибиться
+
+а если вот так? `[страница один](/pageone.html)`
+
+`[страница один](/pageone.html)`
