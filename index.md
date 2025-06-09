@@ -1,7 +1,18 @@
 ---
-layout: page
-title: "Самая главная страница"
-permalink: https://vasiliy-mazaev.github.io
+title: Моя вторая статья
+author: Vasily Mazaev
+date: 2023-10-16T14:30:00+03:00
+categories:
+  - Writing
+  - Blogs
+tags:
+  - Content Creation
+  - Creativity
+layout: post
+excerpt: >
+  Вторая статья посвящена созданию качественного контента.
+draft: false
+published: true
 ---
 
 # рабочий процесс
