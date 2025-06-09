@@ -1,2 +1,5 @@
 # vasiliy-mazaev.github.io
-note-book-site
+
+Личная страничка
+
+В процессе обучения, как пользоваться github pages
