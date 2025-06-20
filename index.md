@@ -25,10 +25,8 @@ published: true
 
 # Liquid
 
-{{ page.title }}
+Отлично работает и в .md файлах
 
-{% for item in site.pages %}
-  - {{item.path}}
-{% endfor %}
+# Lauout
 
-Ну что? Работает Liquid?
+Создал Default. Посмотрим как работает.
