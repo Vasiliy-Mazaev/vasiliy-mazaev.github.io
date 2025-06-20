@@ -28,7 +28,7 @@ published: true
 {{ page.title }}
 
 {% for item in site.pages %}
-  - {{item}}
+  - {{item.path}}
 {% endfor %}
 
 Ну что? Работает Liquid?
