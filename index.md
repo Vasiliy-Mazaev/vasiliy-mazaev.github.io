@@ -15,10 +15,14 @@ published: true
 
 - рабочая папка `/root`
 - стартовая страница `index.md`
-- markdown ссылка `[тест](/test.md)` [тест](/test.md)
-- wiki ссылка `[[/test.md|тест]]` [[/test.md|тест]]
+- своя страничка для ошибка 404
+- используем markdown ссылкы `[тест](/test.md)`. wiki-ссылки не работают.
 - Используем YAML Front Matter
-- Используем тему Jekyll из перечня поддерживаемых ([Cayman](https://pages-themes.github.io/cayman/))
+- Пока не используем темы Jekyll
 
 Так, ну со стандартным движком giyhub pages все практически ясно.
 Давайте смотреть что там умеет jakyll
+
+# Liquid
+
+{{ page.title }}
