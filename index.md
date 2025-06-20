@@ -7,9 +7,6 @@ categories:
 tags:
   - Content Creation
   - Creativity
-layout: page
-excerpt: >
-  Вторая статья посвящена созданию качественного контента.
 draft: false
 published: true
 ---
