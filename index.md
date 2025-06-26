@@ -10,6 +10,7 @@ tags:
 draft: false
 published: true
 ---
+## [Тестовая страничка](test.md)
 
 ## Структура проекта
 
