@@ -1,6 +1,6 @@
 ---
-title: Моя вторая статья
-author: Vasily Mazaev
+title: Главная станичка блога.
+author: Vasiliy Mazaev
 date: 2023-10-16T14:30:00+03:00
 categories:
   - Writing
@@ -8,9 +8,9 @@ categories:
 tags:
   - Content Creation
   - Creativity
-layout: post
+layout: base
 excerpt: >
-  Вторая статья посвящена созданию качественного контента.
+  Главная страничка, план действий, место заметок.
 draft: false
 published: true
 ---
