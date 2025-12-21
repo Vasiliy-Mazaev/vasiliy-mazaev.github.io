@@ -7,7 +7,7 @@ categories:
 tags:
   - Content Creation
   - Creativity
-layout: Default
+layout: default
 excerpt: >
   Главная страничка, план действий, место заметок.
 draft: false
