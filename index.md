@@ -33,8 +33,11 @@ published: true
 
 ## Notes
 
-Заменил у этой странички во Front YAML layout c *base* на *Default*
+Заменил у этой странички во Front matter YAML layout c *base* на *Default*
 Написал Default с большой буквы, проверить зависит от регистра, подключит ли layout *default.html*
+Результат: layout применился, а кнопка не появилась на главной странице, типа супер, но почему?
+
+Напишу в front matter *default* с маленькой буквы
 
 ## Liquid
 
