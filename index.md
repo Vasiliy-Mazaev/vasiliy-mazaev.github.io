@@ -7,7 +7,7 @@ categories:
 tags:
   - Content Creation
   - Creativity
-layout: base
+layout: Default
 excerpt: >
   Главная страничка, план действий, место заметок.
 draft: false
@@ -30,6 +30,11 @@ published: true
 
 Так, ну со стандартным движком giyhub pages все практически ясно.
 Давайте смотреть что там умеет jakyll
+
+## Notes
+
+Заменил у этой странички во Front YAML layout c *base* на *Default*
+Написал Default с большой буквы, проверить зависит от регистра, подключит ли layout *default.html*
 
 ## Liquid
 
