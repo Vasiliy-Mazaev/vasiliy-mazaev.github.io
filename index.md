@@ -5,7 +5,7 @@ date: 2023-10-16T14:30:00+03:00
 categories:
   - Blogs
 tags:
-  - Content Creation
+  - Scalemodel
   - Creativity
 layout: default
 excerpt: >
@@ -13,48 +13,22 @@ excerpt: >
 draft: false
 published: true
 ---
-## Оглавление
 
-[Hobby Coin Bot](hobbycoin.md)
+## Журнал хобби.
 
-## [Тестовая страничка](test.md)
+Все в том блоге в состоянии beta-test!
 
-## Структура проекта
+Всегда собирал масштабные модели, теперь решил еще и писать об этом в сети.
 
-- рабочая папка `/root`
-- стартовая страница `index.md`
-- своя страничка для ошибка 404
-- используем markdown ссылкы `[тест](/test.md)`. wiki-ссылки не работают.
-- используем YAML Front Matter
-- используем темы Jekyll
+## 5 последних записей в жернале:
 
-Так, ну со стандартным движком giyhub pages все практически ясно.
-Давайте смотреть что там умеет jakyll
+<h1>Latest Posts</h1>
 
-## Notes
-
-Заменил у этой странички во Front matter YAML layout c *base* на *Default*
-Написал Default с большой буквы, проверить зависит от регистра, подключит ли layout *default.html*.
-
-Результат: layout не применился
-
-Напишу в front matter *default* с маленькой буквы.
-
-Результат: layout применился
-
-Вывод: имена файлов layout регистрозависимые!
-
-## Liquid
-
-Отлично работает и в .md файлах
-
-## Layout
-
-Создал Default. Работает отлично, документация есть на сайте Jekyll
-
-## Nav
-
-- [x] Пора создавать навигационную панель, как рекомендует Jekyll
-- [x] создать папку для Posts
-- [x] выполненная задача
-- [ ] убрать кнопку (На главную) с главной страницы
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
