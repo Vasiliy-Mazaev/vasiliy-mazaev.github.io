@@ -14,21 +14,17 @@ draft: false
 published: true
 ---
 
-## Журнал хобби.
+## Журнал хобби
 
 Все в том блоге в состоянии beta-test!
 
 Всегда собирал масштабные модели, теперь решил еще и писать об этом в сети.
 
-## 5 последних записей в жернале:
+## 5 последних записей в жернале
 
-<h1>Latest Posts</h1>
+{% for post in site.posts %}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+- ![{{ post.title }}]({{ post.url }})
+  {{ post.excerpt }}
+
+{% endfor %}
