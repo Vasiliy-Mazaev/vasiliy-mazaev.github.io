@@ -1,4 +1,10 @@
 # _config.yml
 
-title: Личный журнал Василия М.
-description: Моя страничка в которой я буду писать все что хочу и что меня волнует.
+title: "MiniMotive"
+description: "Пишу как собираю модели"
+baseurl: "" # для github.io
+url: "https://vasiliy-mazaev.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
