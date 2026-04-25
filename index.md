@@ -14,7 +14,11 @@ excerpt: >
 ## 5 последних записей в жернале
 
 {% for post in site.posts %}
+[{{ post.title }}]({{ post.url }})
+{% endfor %}
 
-[{{ post.title }}]({{ post.url }}){{ post.excerpt }}
+## Статьи
 
+{% for article in site.articles %}
+[{{ article.title }}]({{ article.url }})
 {% endfor %}

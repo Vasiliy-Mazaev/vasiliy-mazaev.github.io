@@ -8,3 +8,10 @@ url: "https://vasiliy-mazaev.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+
+lang: ru
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/

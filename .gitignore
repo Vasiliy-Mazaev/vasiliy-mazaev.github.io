@@ -21,3 +21,5 @@ Gemfile.lock
 _site/
 .bundle/
 vendor/
+
+link-to-minima-2.5.1
