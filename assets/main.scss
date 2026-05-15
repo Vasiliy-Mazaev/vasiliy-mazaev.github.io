@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+/* Твои стили */
+
+.paint-chip {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.metallic {
+  box-shadow:
+    inset 0 2px 4px rgba(255,255,255,0.55),
+    inset 0 -2px 4px rgba(0,0,0,0.25);
+}
+
+.gloss {
+  background-image:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,0.95) 0%,
+      rgba(255,255,255,0.45) 15%,
+      rgba(255,255,255,0.05) 30%,
+      rgba(0,0,0,0.15) 100%
+    );
+}
