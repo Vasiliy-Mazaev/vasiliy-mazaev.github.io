@@ -37,29 +37,29 @@ XF-65 Field Grey
 ## 🎨 Mr.Color lacquer
 
 <span class="paint-chip gloss" style="background-color:#6B3A32;"></span>
-C29 Semi-Gloss Hull Red (Cocoa Brown) Battle Ship
+c29 Semi-Gloss Hull Red (Cocoa Brown) Battle Ship
 
 <span class="paint-chip gloss" style="background-color:#B3122B;"></span>
-C79 Gloss Shine Red Primary
+c79 Gloss Shine Red Primary
 
 <span class="paint-chip gloss" style="background-color:#8FB9C9;"></span>
-C115 Semi-Gloss RLM65 Light Blue German Aircraft
+c115 Semi-Gloss RLM65 Light Blue German Aircraft
 
 <span class="paint-chip gloss" style="background-color:#4F5A3E;"></span>
-C304 Semi-Gloss Olive Drab FS34087 JSAF Aircraft Weapon
+c304 Semi-Gloss Olive Drab FS34087 JSAF Aircraft Weapon
 
 <span class="paint-chip gloss" style="background-color:#E8E8E8;"></span>
-GX100 Gloss Super Clear III Primary
+gx100 Gloss Super Clear III Primary
 
 ## 🎨 Mr.Metall Color
 
 <span class="paint-chip gloss" style="background-color:#5F6368;"></span>
-SM213 Stainless
+sm213 Stainless
 
 ## 🎨 Mr.Hobby Aqueous
 
 <span class="paint-chip gloss" style="background-color:#E8E8E8;"></span>
-H30 Gloss Clear Primary/For Coat
+h30 Gloss Clear Primary/For Coat
 
 ## 🎨 Jim Scale Water-Based (1 & 5 series)
 
@@ -116,3 +116,26 @@ H30 Gloss Clear Primary/For Coat
 
 <span class="paint-chip matt" style="background-color:#4B3B2C;"></span>
 05.2415 Agrax Earthshade
+
+## 🎨 Jim Scale IPA-Based (7 series)
+
+<span class="paint-chip gloss" style="background-color:#121212;"></span>
+07.061 Gloss Black
+
+<span class="paint-chip matt" style="background-color:#556B4D;"></span>
+07.093 4БО (FS34102)
+
+<span class="paint-chip matt" style="background-color:#C9B07A;"></span>
+07.138 Syrian Sand
+
+<span class="paint-chip matt" style="background-color:#6B4A34;"></span>
+07.250 NATO Brown
+
+<span class="paint-chip metallic gloss" style="background-color:#B58A49;"></span>
+07.260 Brass
+
+<span class="paint-chip matt" style="background-color:#4A4845;"></span>
+07.274 Flat Old Rubber
+
+<span class="paint-chip matt" style="background-color:#D6C29A;"></span>
+07.345 Buff
