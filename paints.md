@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Мои краски
+title: Краски
 author: Василий Мазаев
 tags: paints
 draft: false
 published: true
-excerpt: Список моих красок.
+excerpt: Краски которые есть у меня в наличии
 ---
 
-## 🎨 Tamiya acrylic
+*Это страничка вообще для личного пользования. Моя памятка какие краски у меня есть в наличии.*
+
+## TAMIYA acrylic
 
 <span class="paint-chip gloss" style="background-color:#1F6A3A;"></span>
 X-5 Green
@@ -34,7 +36,7 @@ XF-56 Metallic Grey
 <span class="paint-chip" style="background-color:#5A6654;"></span>
 XF-65 Field Grey
 
-## 🎨 Mr.Color lacquer
+## Mr.Color lacquer
 
 <span class="paint-chip gloss" style="background-color:#6B3A32;"></span>
 c29 Semi-Gloss Hull Red (Cocoa Brown) Battle Ship
@@ -51,17 +53,17 @@ c304 Semi-Gloss Olive Drab FS34087 JSAF Aircraft Weapon
 <span class="paint-chip gloss" style="background-color:#E8E8E8;"></span>
 gx100 Gloss Super Clear III Primary
 
-## 🎨 Mr.Metall Color
+## Mr.Metall Color
 
 <span class="paint-chip gloss" style="background-color:#5F6368;"></span>
 sm213 Stainless
 
-## 🎨 Mr.Hobby Aqueous
+## Mr.Hobby Aqueous
 
 <span class="paint-chip gloss" style="background-color:#E8E8E8;"></span>
 h30 Gloss Clear Primary/For Coat
 
-## 🎨 Jim Scale Water-Based (1 & 5 series)
+## Jim Scale Water-Based (1 & 5 series)
 
 <span class="paint-chip matt" style="background-color:#82888D;"></span>
 01.006 Grey Primer
@@ -117,7 +119,7 @@ h30 Gloss Clear Primary/For Coat
 <span class="paint-chip matt" style="background-color:#4B3B2C;"></span>
 05.2415 Agrax Earthshade
 
-## 🎨 Jim Scale IPA-Based (7 series)
+## Jim Scale IPA-Based (7 series)
 
 <span class="paint-chip gloss" style="background-color:#121212;"></span>
 07.061 Gloss Black
