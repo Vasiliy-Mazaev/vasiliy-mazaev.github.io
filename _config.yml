@@ -1,9 +1,10 @@
 # _config.yml
 
 title: "MiniMotive"
-description: "Пишу как собираю модели"
+description: "Всегда собирал модели, теперь решил еще и писать об этом заметки в сети."
 baseurl: "" # для github.io
 url: "https://vasiliy-mazaev.github.io"
+email: vasiliy.mazaev@yandex.ru
 
 theme: minima
 plugins:
