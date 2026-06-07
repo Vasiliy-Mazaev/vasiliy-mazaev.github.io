@@ -124,6 +124,9 @@ h30 Gloss Clear Primary/For Coat
 <span class="paint-chip gloss" style="background-color:#121212;"></span>
 07.061 Gloss Black
 
+<span class="paint-chip gloss" style="background-color:#FF0000;"></span>
+07.065 Gloss Red
+
 <span class="paint-chip matt" style="background-color:#556B4D;"></span>
 07.093 4БО (FS34102)
 
