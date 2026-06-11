@@ -22,7 +22,7 @@ X-11 Chrome Silver
 X-18 Semi Gloss Black
 
 <span class="paint-chip" style="background-color:#121212;"></span>
-XF-1 Black
+XF-1 Black 🥄
 
 <span class="paint-chip metallic" style="background-color:#B8BCC2;"></span>
 XF-16 Flat Aluminum
@@ -72,10 +72,10 @@ h30 Gloss Clear Primary/For Coat
 01.009 Black Primer
 
 <span class="paint-chip matt" style="background-color:#6A6B5B;"></span>
-01.017 Tarpaulin
+01.017 Tarpaulin 🥄
 
 <span class="paint-chip gloss" style="background-color:#151515;"></span>
-01.061 Black
+01.061 Black 🥄
 
 <span class="paint-chip matt" style="background-color:#F2F2F0;"></span>
 01.082 Matt White
@@ -87,7 +87,7 @@ h30 Gloss Clear Primary/For Coat
 01.157 Retarder
 
 <span class="paint-chip matt" style="background-color:#8A4B32;"></span>
-01.230 Rust
+01.230 Rust 🥄
 
 <span class="paint-chip metallic gloss" style="background-color:#4E5358;"></span>
 01.236 Gunmetal
@@ -96,10 +96,10 @@ h30 Gloss Clear Primary/For Coat
 01.261 Chrome
 
 <span class="paint-chip matt" style="background-color:#4F5A3D;"></span>
-01.293 Olivgrun (RAL 6003)
+01.293 Olivgrun (RAL 6003) 🥄
 
 <span class="paint-chip matt" style="background-color:#6A3B2A;"></span>
-01.294 Rotbraun (RAL 8012)
+01.294 Rotbraun (RAL 8012) 🥄
 
 <span class="paint-chip gloss" style="background-color:#ECECEC;"></span>
 01.301 Gloss Varnish
@@ -108,7 +108,7 @@ h30 Gloss Clear Primary/For Coat
 01.302 Matt Varnish
 
 <span class="paint-chip matt" style="background-color:#B79B57;"></span>
-01.309 Dunkelgelb (RAL 7028)
+01.309 Dunkelgelb (RAL 7028) 🥄
 
 <span class="paint-chip gloss" style="background-color:#E6E6E6;"></span>
 01.354 Chipping Agent
@@ -125,7 +125,7 @@ h30 Gloss Clear Primary/For Coat
 07.061 Gloss Black
 
 <span class="paint-chip gloss" style="background-color:#FF0000;"></span>
-07.065 Gloss Red
+07.065 Gloss Red 🥄
 
 <span class="paint-chip matt" style="background-color:#556B4D;"></span>
 07.093 4БО (FS34102)
@@ -137,10 +137,10 @@ h30 Gloss Clear Primary/For Coat
 07.250 NATO Brown
 
 <span class="paint-chip metallic gloss" style="background-color:#B58A49;"></span>
-07.260 Brass
+07.260 Brass 🥄
 
 <span class="paint-chip matt" style="background-color:#4A4845;"></span>
-07.274 Flat Old Rubber
+07.274 Flat Old Rubber 🥄
 
 <span class="paint-chip matt" style="background-color:#D6C29A;"></span>
 07.345 Buff
