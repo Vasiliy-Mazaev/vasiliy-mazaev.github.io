@@ -37,7 +37,7 @@ XF-56 Metallic Grey
 XF-65 Field Grey
 
 <span class="paint-chip" style="background-color:#5F5C4B;"></span>
-XF-67 NATO Green
+XF-67 NATO Green 🥄
 
 ## Mr.Color lacquer
 
