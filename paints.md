@@ -117,7 +117,7 @@ h30 Gloss Clear Primary/For Coat
 01.354 Chipping Agent
 
 <span class="paint-chip matt" style="background-color:#9B7A52;"></span>
-01.388 Wood Base
+01.388 Wood Base 🥄
 
 <span class="paint-chip matt" style="background-color:#4B3B2C;"></span>
 05.2415 Agrax Earthshade
