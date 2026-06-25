@@ -116,7 +116,7 @@ h30 Gloss Clear Primary/For Coat
 <span class="paint-chip gloss" style="background-color:#E6E6E6;"></span>
 01.354 Chipping Agent
 
-<span class="paint-chip matt" style="background-color:#9B7A52;"></span>
+<span class="paint-chip gloss" style="background-color:#9B7A52;"></span>
 01.388 Wood Base 🥄
 
 <span class="paint-chip matt" style="background-color:#4B3B2C;"></span>

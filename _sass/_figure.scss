@@ -1,11 +1,17 @@
 figure {
     margin: 2rem 0;
     text-align: center;
+
+    background: #fafafa;
+    padding: 1rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
 }
 
 figure img {
     max-width: 100%;
     height: auto;
+    border-radius: 8px;
 }
 
 figcaption {
