@@ -7,3 +7,61 @@ $base-font-family: Georgia, serif;
 
 @import "figure";
 @import "paints";
+
+.carousel figure {
+    display: none;
+}
+
+.carousel figure.active {
+    display: block;
+}
+
+.carousel {
+    position: relative;
+}
+
+.carousel .prev {
+    position: absolute;
+
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    width: 30%;
+
+    border: none;
+    background: transparent;
+
+    cursor: pointer;
+}
+
+.carousel .next {
+    position: absolute;
+
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+    width: 30%;
+
+    border: none;
+    background: transparent;
+
+    cursor: pointer;
+}
+
+.prev,
+.next {
+
+    opacity: 0;
+
+    transition: .2s;
+}
+
+.carousel:hover .prev,
+.carousel:hover .next {
+
+    opacity: 1;
+
+}
+
