@@ -99,7 +99,7 @@ h30 Gloss Clear Primary/For Coat
 01.236 Gunmetal
 
 <span class="paint-chip metallic gloss" style="background-color:#D7DADF;"></span>
-01.261 Chrome
+01.261 Chrome 🐌🥄 *Хороший металлик, высокая укрывистость, мелкий пигмент. Наносить очень тонкими слоями.*
 
 <span class="paint-chip matt" style="background-color:#4F5A3D;"></span>
 01.293 Olivgrun (RAL 6003) 🥄

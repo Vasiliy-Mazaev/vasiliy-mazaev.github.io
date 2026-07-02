@@ -45,6 +45,6 @@ function showSlide(slides, current) {
 
     if (caption) {
         caption.textContent =
-            `${caption.dataset.original} (${current + 1} / ${slides.length})`;
+            `${caption.dataset.original} (${current + 1}/${slides.length})`;
     }
 }
