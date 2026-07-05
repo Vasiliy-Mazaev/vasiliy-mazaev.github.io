@@ -31,7 +31,7 @@ XF-1 Black 🥄
 XF-16 Flat Aluminum
 
 <span class="paint-chip" style="background-color:#B7C6B1;"></span>
-XF-21 Sky 🐌 🥄
+XF-21 Sky 🥄🐌
 
 <span class="paint-chip metallic" style="background-color:#5F6368;"></span>
 XF-56 Metallic Grey
@@ -99,7 +99,7 @@ h30 Gloss Clear Primary/For Coat
 01.236 Gunmetal
 
 <span class="paint-chip metallic gloss" style="background-color:#D7DADF;"></span>
-01.261 Chrome 🐌🥄 *Хороший металлик, высокая укрывистость, мелкий пигмент. Наносить очень тонкими слоями.*
+01.261 Chrome 🥄🐌
 
 <span class="paint-chip matt" style="background-color:#4F5A3D;"></span>
 01.293 Olivgrun (RAL 6003) 🥄
@@ -120,7 +120,7 @@ h30 Gloss Clear Primary/For Coat
 01.354 Chipping Agent
 
 <span class="paint-chip gloss" style="background-color:#9B7A52;"></span>
-01.388 Wood Base 🐌 🥄
+01.388 Wood Base 🥄🐌
 
 <span class="paint-chip matt" style="background-color:#4B3B2C;"></span>
 05.2415 Agrax Earthshade

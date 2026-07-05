@@ -1,0 +1,18 @@
+<figure>
+    <img
+        src="{{ include.src }}"
+        alt="{{ include.alt | default: '' }}"
+        loading="lazy">
+
+    {% if include.caption %}
+    <figcaption>
+        {{ include.caption }}
+    </figcaption>
+    {% endif %}
+</figure>
+
+для использования поместить на страницу:
+{% include image.html
+src="/assets/img/ant-5/ant5-title-image.webp"
+alt="Референс будущей окраски"
+caption="Немного посоветовался с ChatGPT и набросали вот такой референс." %}
