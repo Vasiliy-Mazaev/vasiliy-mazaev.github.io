@@ -11,6 +11,7 @@ excerpt: Краски которые есть у меня в наличии
 *Это страничка для личного пользования. Какие краски у меня есть в наличии.*
 
 > 🥄 выкрас на ложке
+>
 > 🐌 выкрас с использованием замедлителя (Retarder)
 
 ## TAMIYA acrylic
@@ -96,7 +97,7 @@ h30 Gloss Clear Primary/For Coat
 01.230 Rust 🥄
 
 <span class="paint-chip metallic gloss" style="background-color:#4E5358;"></span>
-01.236 Gunmetal
+01.236 Gunmetal 🥄🐌 *хорошо прокрашивает со второго слоя*
 
 <span class="paint-chip metallic gloss" style="background-color:#D7DADF;"></span>
 01.261 Chrome 🥄🐌
@@ -119,8 +120,8 @@ h30 Gloss Clear Primary/For Coat
 <span class="paint-chip gloss" style="background-color:#E6E6E6;"></span>
 01.354 Chipping Agent
 
-<span class="paint-chip gloss" style="background-color:#9B7A52;"></span>
-01.388 Wood Base 🥄🐌
+<span class="paint-chip gloss" style="background-color:#C7C192;"></span>
+01.388 Wood Base 🥄🐌 *плохая укрывистость, нужно несколько слоев*
 
 <span class="paint-chip matt" style="background-color:#4B3B2C;"></span>
 05.2415 Agrax Earthshade
@@ -141,6 +142,9 @@ h30 Gloss Clear Primary/For Coat
 
 <span class="paint-chip matt" style="background-color:#6B4A34;"></span>
 07.250 NATO Brown
+
+<span class="paint-chip matt" style="background-color:#383836;"></span>
+07.252 NATO Black 🥄🐌 *краска ложится крупинками, шлифовал губкой 4000 ед.*
 
 <span class="paint-chip metallic gloss" style="background-color:#B58A49;"></span>
 07.260 Brass 🥄
