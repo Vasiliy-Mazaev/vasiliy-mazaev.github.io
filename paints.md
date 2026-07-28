@@ -43,23 +43,6 @@ XF-65 Field Grey
 <span class="paint-chip" style="background-color:#5F5C4B;"></span>
 XF-67 NATO Green 🥄
 
-## Mr.Color lacquer
-
-<span class="paint-chip gloss" style="background-color:#6B3A32;"></span>
-c29 Semi-Gloss Hull Red (Cocoa Brown) Battle Ship
-
-<span class="paint-chip gloss" style="background-color:#B3122B;"></span>
-c79 Gloss Shine Red Primary
-
-<span class="paint-chip gloss" style="background-color:#8FB9C9;"></span>
-c115 Semi-Gloss RLM65 Light Blue German Aircraft
-
-<span class="paint-chip gloss" style="background-color:#4F5A3E;"></span>
-c304 Semi-Gloss Olive Drab FS34087 JSAF Aircraft Weapon
-
-<span class="paint-chip gloss" style="background-color:#E8E8E8;"></span>
-gx100 Gloss Super Clear III Primary
-
 ## Mr.Metall Color
 
 <span class="paint-chip gloss" style="background-color:#5F6368;"></span>
