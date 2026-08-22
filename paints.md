@@ -124,7 +124,7 @@ h30 Gloss Clear Primary/For Coat
 07.138 Syrian Sand
 
 <span class="paint-chip matt" style="background-color:#6B4A34;"></span>
-07.250 NATO Brown
+07.250 NATO Brown 🥄🐌
 
 <span class="paint-chip matt" style="background-color:#383836;"></span>
 07.252 NATO Black 🥄🐌 *краска ложится крупинками, шлифовал губкой 4000 ед.*
